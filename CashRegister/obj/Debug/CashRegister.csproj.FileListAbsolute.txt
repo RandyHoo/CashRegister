@@ -1,0 +1,14 @@
+c:\users\stn\documents\visual studio 2015\Projects\CashRegister\CashRegister\bin\Debug\CashRegister.exe.config
+c:\users\stn\documents\visual studio 2015\Projects\CashRegister\CashRegister\bin\Debug\CashRegister.exe
+c:\users\stn\documents\visual studio 2015\Projects\CashRegister\CashRegister\bin\Debug\CashRegister.pdb
+c:\users\stn\documents\visual studio 2015\Projects\CashRegister\CashRegister\bin\Debug\Oracle.DataAccess.dll
+c:\users\stn\documents\visual studio 2015\Projects\CashRegister\CashRegister\bin\Debug\Oracle.ManagedDataAccess.dll
+c:\users\stn\documents\visual studio 2015\Projects\CashRegister\CashRegister\obj\Debug\CashRegister.csprojResolveAssemblyReference.cache
+c:\users\stn\documents\visual studio 2015\Projects\CashRegister\CashRegister\obj\Debug\CashRegister.Properties.Resources.resources
+c:\users\stn\documents\visual studio 2015\Projects\CashRegister\CashRegister\obj\Debug\CashRegister.csproj.GenerateResource.Cache
+c:\users\stn\documents\visual studio 2015\Projects\CashRegister\CashRegister\obj\Debug\CashRegister.exe
+c:\users\stn\documents\visual studio 2015\Projects\CashRegister\CashRegister\obj\Debug\CashRegister.pdb
+C:\Users\stn\Documents\Visual Studio 2015\Projects\CashRegister\CashRegister\obj\Debug\CashRegister.InsertForm.resources
+C:\Users\stn\Documents\Visual Studio 2015\Projects\CashRegister\CashRegister\obj\Debug\CashRegister.AggregateForm.resources
+C:\Users\stn\Documents\Visual Studio 2015\Projects\CashRegister\CashRegister\obj\Debug\CashRegister.LogViewForm.resources
+C:\Users\stn\Documents\Visual Studio 2015\Projects\CashRegister\CashRegister\obj\Debug\CashRegister.MainMenuForm.resources
